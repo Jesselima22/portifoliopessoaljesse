@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/05c99bd3-2343-435a-8ed0-1257d3f08f0a)
+![Front-end-Portifólio Pessoal Jessé Lima](https://github.com/user-attachments/assets/6e225e69-1f96-4912-93fc-ad195fcc92ef)
+
 
  
  # Portifólio Pessoal Jessé 
