@@ -5,3 +5,15 @@
  # Portifólio Pessoal Jessé 
 
  Desenvovido através dos curso de HTML e CSS na Allura, através do programa Oracle One Brasil
+
+ ## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por:
+
+### Jessé Lima
